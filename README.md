@@ -11,3 +11,5 @@ La ambigua redacción del RGPD que deja la puerta abierta a la empresa para que 
 * gestores de contraseñas
 * cifrado de discos, para evitar acceso a datos aunque se pierdan
 * almacenamiento centralizado, ya que de lo contrario es imposible garantizar la seguridad de los datos.
+
+[The best website builder for small businesses ](https://www.engadget.com/2018/07/22/the-best-website-builder-for-small-businesses/)
