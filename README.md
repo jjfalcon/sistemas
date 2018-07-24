@@ -5,11 +5,38 @@ Informacion sobre sistemas de informacion
 A continuación se detalla la información más representativa de los distintos equipos utilizados:
 
 ## FHC03 - iMac
+MacBook Air (13 pulgadas, mediados de 2012)
+Procesador 1,8 GHz Intel Core i5
+Memoria 4 GB 1600 Mhz DDR3
+Gráficos Intel HD Graphics 4000 1536 MB
+Número e serie C02J3216DRVC
+
 jjfalcon/jjfalcon
 
-## FHC03 - WXPU7 (VMware)
+**Configurar red** automaticamente por defecto. Si problema de DNS configurar manualmente:
+IP: 10.92.6.177 (por ejemplo)
+Enlace: 10.92.6.1
+Dns: 10.92.6.201
+Mascara: 255.255.255.0
+
+**Optimizar iMac**
+- optimizar arranqe: preferencias - usuarios -items de inicio - desactivar innecesarios
+- reducir apps en ejecucion: pestañas navegador, time machine, etc
+- repara disco: utilidad de discos - primera ayuda
+- gestionar almacenamiento: Acerca Mac - Almacenamiento - Gestionar o Gestion del almacenamiento.app 
+
+- Ampliar memoria al máximo hardware (16GB)
+- Instalar disco SSD
+
+## FHC03 - WXPU7 (FHC VMware)
 FHC03/Administrador
 FHC/juanjo/I--5
+
+## FHC03 - WXPU7 (WU7MPLAB VMware)
+FHC03/Administrador
+- Instalar MPLAB IDE X 4.2
+- Instalar XC32 1.32
+- Abrir proyecto y compilar
 
 # Info
 
