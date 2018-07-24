@@ -1,6 +1,18 @@
 # Sistemas
 Informacion sobre sistemas de informacion
 
+# Equipos
+A continuación se detalla la información más representativa de los distintos equipos utilizados:
+
+## FHC03 - iMac
+jjfalcon/jjfalcon
+
+## FHC03 - WXPU7 (VMware)
+FHC03/Administrador
+FHC/juanjo/I--5
+
+# Info
+
 [7 elementos de seguridad que la empresa debería plantearse añadir para cumplir con el RGPD](https://www.pymesyautonomos.com/legalidad/7-elementos-seguridad-que-empresa-deberia-plantearse-anadir-para-cumplir-rgpd)
 
 La ambigua redacción del RGPD que deja la puerta abierta a la empresa para que tome las medidas de seguridad suficientes para que los datos de sus clientes estén protegidos supone un problema para muchas de ellas. No tienen claro qué elementos de seguridad necesitan para no exponerse a una sanción por incumplimiento del RGPD. Pero lo que está claro es que la mayoría de ellas tienen que tratar de reforzar su seguridad. Aquí presentamos 7 elementos de seguridad importantes:
