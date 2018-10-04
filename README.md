@@ -1,6 +1,22 @@
 # Sistemas
 Informacion sobre sistemas de informacion
 
+# Herramientas
+Información sobre herramientas recomendadas
+
+[Factorial](https://factorialhr.es/) en un software cloud gratuito en sus funciones basicas, que automatiza tus tareas de recursos humanos, reduce errores, y gana visibilidad de los datos de tu empresa.
+
+[Google Suite]()
+
+[Trello](https://trello.com/) Herramienta para gestión de proyectos
+
+[Slack](https://slack.com) Herramienta de comunicacion
+
+[GitHub](https://github.com) es un herramienta/repositorio para desarrollo de software, gratuito para proyectos OpenSource
+
+[GitLab](https://about.gitlab.com/) es un herramienta/repositorio para desarrollo de software, gratuito para proyectos OpenSource, y 5 proyectos comerciales
+
+
 # Equipos
 A continuación se detalla la información más representativa de los distintos equipos utilizados:
 
