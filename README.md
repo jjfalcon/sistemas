@@ -17,11 +17,17 @@ Información sobre herramientas recomendadas
 [GitLab](https://about.gitlab.com/) es un herramienta/repositorio para desarrollo de software, gratuito para proyectos OpenSource, y 5 proyectos comerciales
 
 [Dropbox]()
+
 [Google Drive]()
+
 [OneDrive]()
+
 [Crytomator](https://cryptomator.org) Free client-side encryption for your cloud files.
 Open source software: No backdoors, no registration.
 
+![](https://cryptomator.org/img/stage/smartphone.png)
+![](https://cryptomator.org/img/stage/logo.png)
+![](https://cryptomator.org/img/stage/cloud.png)
 
 # Equipos
 A continuación se detalla la información más representativa de los distintos equipos utilizados:
