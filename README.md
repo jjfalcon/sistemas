@@ -37,6 +37,8 @@ Open source software: No backdoors, no registration.
 ![](https://cryptomator.org/img/stage/logo.png)
 ![](https://cryptomator.org/img/stage/cloud.png)
 
+[Como escanear documentos en la nube](https://elandroidelibre.elespanol.com/2018/10/como-escanear-documentos-con-el-movil.html)
+
 # Equipos
 A continuación se detalla la información más representativa de los distintos equipos utilizados:
 
