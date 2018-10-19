@@ -4,6 +4,14 @@ Informacion sobre sistemas de informacion
 # Herramientas
 Información sobre herramientas recomendadas
 
+Máquinas Virtuales
+[Prueba Windows gratis con las máquinas virtuales de Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) El propósito de estas máquinas virtuales es probar sus navegadores Microsoft Edge y las versiones 8 a 11 de Internet Explorer. En la práctica, también es posible probar Windows en sus versiones 7 a 10. No todas las características disponibles pero sí las más importantes.
+
+[Prueba desarrollo Windows con maquinas virtuales de Microsoft](https://developer.microsoft.com/es-es/windows/downloads/virtual-machines)
+Empieza a codificar lo antes posible con una máquina virtual preparada para el desarrollo de Windows 10. Tiene las últimas versiones de Windows, las herramientas de desarrollo, los SDK y las muestras, todo ello listo para ejecutarse.
+
+[Windows 10 Product Keys 100% Working Serial Keys](https://www.softwarebeam.com/2016/08/windows-10-product-keys-serial-keys.html)
+
 [Factorial](https://factorialhr.es/) en un software cloud gratuito en sus funciones basicas, que automatiza tus tareas de recursos humanos, reduce errores, y gana visibilidad de los datos de tu empresa.
 
 [Google Suite]()
