@@ -39,6 +39,8 @@ Open source software: No backdoors, no registration.
 
 [Como escanear documentos en la nube](https://elandroidelibre.elespanol.com/2018/10/como-escanear-documentos-con-el-movil.html)
 
+[Introducción, muy breve y desenfadada, a Docker](https://blog.irontec.com/introduccion-muy-breve-y-desenfadada-a-docker/)
+
 # Equipos
 A continuación se detalla la información más representativa de los distintos equipos utilizados:
 
