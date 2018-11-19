@@ -20,6 +20,8 @@ Empieza a codificar lo antes posible con una máquina virtual preparada para el 
 
 [Slack](https://slack.com) Herramienta de comunicacion
 
+[Ryver](https://ryver.com) The Best Way to Collaborate. All your team communication in one place.
+
 [GitHub](https://github.com) es un herramienta/repositorio para desarrollo de software, gratuito para proyectos OpenSource
 
 [GitLab](https://about.gitlab.com/) es un herramienta/repositorio para desarrollo de software, gratuito para proyectos OpenSource, y 5 proyectos comerciales
