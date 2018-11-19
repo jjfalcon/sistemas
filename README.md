@@ -32,6 +32,12 @@ Empieza a codificar lo antes posible con una máquina virtual preparada para el 
 
 [OneDrive]()
 
+[91 plantillas de las Hojas de cálculo de Google para organizarlo TODO](https://www.xataka.com/basics/plantillas-hojas-calculos-google-para-organizarlo-todo)
+
+[Photopea](https://www.microsiervos.com/archivo/arte-y-diseno/photopea-photoshop-en-linea-gratis.html) clon de Photoshop ágil y práctico, pero en línea y además con versión gratuita
+
+[Google lanza Squoos](https://m.genbeta.com/multimedia/google-lanza-squoosh-herramienta-para-convertir-optimizar-imagenes/amp) una herramienta para convertir y optimizar imágenes
+
 [Crytomator](https://cryptomator.org) Free client-side encryption for your cloud files.
 Open source software: No backdoors, no registration.
 
