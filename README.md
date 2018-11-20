@@ -47,6 +47,8 @@ Open source software: No backdoors, no registration.
 
 [Como escanear documentos en la nube](https://elandroidelibre.elespanol.com/2018/10/como-escanear-documentos-con-el-movil.html)
 
+[VideoProc](https://www.actualidadiphone.com/consigue-gratis-videoproc-la-app-de-edicion-de-video-mas-completa/)la app de edición de vídeo más completa
+
 [Introducción, muy breve y desenfadada, a Docker](https://blog.irontec.com/introduccion-muy-breve-y-desenfadada-a-docker/)
 
 # Equipos
