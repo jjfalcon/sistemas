@@ -49,6 +49,13 @@ Open source software: No backdoors, no registration.
 
 [VideoProc](https://www.actualidadiphone.com/consigue-gratis-videoproc-la-app-de-edicion-de-video-mas-completa/)la app de edición de vídeo más completa
 
+[Canva. Diseño gráfico online](https://www.canva.com/)
+
+[Gravit. Diseño gráfico vectorial free](https://webdesignledger.com/46016-2/) Incluye los siguientes productos:
+* [Gravit Designer](https://designer.io/?_ga=2.89018463.53520051.1543333657-1034869283.1543333657) Version profesional
+* [Gravit Klex](https://klex.io/?_ga=2.63380459.53520051.1543333657-1034869283.1543333657) Versión simple
+* [Gravit Cloud](https://gravit.io/cloud/) Repositorio de ficheros para compartir sincronizar
+
 [Introducción, muy breve y desenfadada, a Docker](https://blog.irontec.com/introduccion-muy-breve-y-desenfadada-a-docker/)
 
 # Equipos
