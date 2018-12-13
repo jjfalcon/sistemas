@@ -18,7 +18,11 @@ Empieza a codificar lo antes posible con una máquina virtual preparada para el 
 
 [Trello](https://trello.com/) Herramienta para gestión de proyectos
 
+[Taiga](https://taiga.io/) Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable.
+
 [Slack](https://slack.com) Herramienta de comunicacion
+
+[Microsoft Teams](https://products.office.com/es-es/microsoft-teams/group-chat-software) El centro para el trabajo en equipo de Office 365. [Mas info](https://www.genbeta.com/actualidad/microsoft-teams-supera-uso-a-slack-demuestra-que-se-puede-llegar-tarde-sabes-como)
 
 [Ryver](https://ryver.com) The Best Way to Collaborate. All your team communication in one place.
 
