@@ -113,3 +113,5 @@ La ambigua redacción del RGPD que deja la puerta abierta a la empresa para que 
 * almacenamiento centralizado, ya que de lo contrario es imposible garantizar la seguridad de los datos.
 
 [The best website builder for small businesses ](https://www.engadget.com/2018/07/22/the-best-website-builder-for-small-businesses/)
+
+[How to Configure Your iPhone to Work for You, Not Against You](https://betterhumans.coach.me/how-to-set-up-your-iphone-for-productivity-focus-and-your-own-longevity-bb27a68cc3d8)
