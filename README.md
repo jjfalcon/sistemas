@@ -62,6 +62,8 @@ Open source software: No backdoors, no registration.
 
 [Introducción, muy breve y desenfadada, a Docker](https://blog.irontec.com/introduccion-muy-breve-y-desenfadada-a-docker/)
 
+[10 aplicaciones gratuitas para Windows, macOS y Linux que nos encantaron este 2018](https://www.genbeta.com/herramientas/10-aplicaciones-gratuitas-para-windows-macos-linux-que-nos-encantaron-este-2018)
+
 # Equipos
 A continuación se detalla la información más representativa de los distintos equipos utilizados:
 
