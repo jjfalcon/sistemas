@@ -24,6 +24,8 @@ Empieza a codificar lo antes posible con una máquina virtual preparada para el 
 
 [Microsoft Teams](https://products.office.com/es-es/microsoft-teams/group-chat-software) El centro para el trabajo en equipo de Office 365. [Mas info](https://www.genbeta.com/actualidad/microsoft-teams-supera-uso-a-slack-demuestra-que-se-puede-llegar-tarde-sabes-como)
 
+[Workweek](https://wwwhatsnew.com/2018/12/24/workweek-una-sencilla-herramienta-de-gestion-de-tareas-para-equipos/) una sencilla herramienta de gestión de tareas para equipos
+
 [Ryver](https://ryver.com) The Best Way to Collaborate. All your team communication in one place.
 
 [GitHub](https://github.com) es un herramienta/repositorio para desarrollo de software, gratuito para proyectos OpenSource
