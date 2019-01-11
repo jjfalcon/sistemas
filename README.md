@@ -64,6 +64,27 @@ Open source software: No backdoors, no registration.
 
 [10 aplicaciones gratuitas para Windows, macOS y Linux que nos encantaron este 2018](https://www.genbeta.com/herramientas/10-aplicaciones-gratuitas-para-windows-macos-linux-que-nos-encantaron-este-2018)
 
+[What's the best tool for companies to manage their knowledge base or internal wikis?](https://twitter.com/brian_armstrong/status/1082383458695966720?s=11) En esta conversacion se presentan algunas como:
+* [Notion](https://www.notion.so/) Write, plan, collaborate, and get organized. Notion is all you need — in one tool. For teams & individuals – Web, Mobile, Mac, Windows
+* [Coda](https://coda.io/welcome) A doc for makers. Coda is a new doc that grows with your ideas. Our early makers have built docs that launch products, run companies, and remind them to water the plants
+* [Guru](https://www.getguru.com/)
+* [Tettra](https://tettra.co/)
+* [Slab](https://slab.com/) A modern editor that makes your company documentation look good by default.
+* [Nuclino](https://www.nuclino.com/) Your team's collective brain
+* [data.world](https://data.world/) Catalog your data, wake up your hidden data workforce, and build a data-driven culture—faster.
+* [Knack](https://www.knack.com/) Build the database that builds your business
+* Confluence/Jira/Redmine
+* Mediawiki
+* Google Sites/Forms
+* Dropbox paper
+* GitLab/GitHub
+* GSuite
+* [operem](https://www.operem.com/) Protect your ideas by securely recording them on blockchain.
+Operem provides a quick and easy solution to capture PDFs, audio/video files, and photos that describe your idea. These files are encrypted and vaulted on blockchain generating a timestamp and digital signature.
+Share your ideas with confidence by tracking chain of custody.
+Invite a colleague or potential collaborator to view an idea. Feel confident knowing that all activity is captured on blockchain - creating an immutable log proving chain of custody.
+* [Teamwork](https://www.teamwork.com/)
+
 # Equipos
 A continuación se detalla la información más representativa de los distintos equipos utilizados:
 
