@@ -32,6 +32,9 @@ Empieza a codificar lo antes posible con una máquina virtual preparada para el 
 
 [GitLab](https://about.gitlab.com/) es un herramienta/repositorio para desarrollo de software, gratuito para proyectos OpenSource, y 5 proyectos comerciales
 
+WebBuilders estaticos
+[Encuesta interes](https://twitter.com/diegomarino/status/1116423829449072640)
+
 [Dropbox]()
 
 [Google Drive]()
