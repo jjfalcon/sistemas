@@ -11,6 +11,8 @@ Informacion sobre sistemas de informacion
 # Herramientas
 Información sobre herramientas recomendadas
 
+[Google recomienda 10 webs para 2021](https://wwwhatsnew.com/2021/02/14/google-ha-recomendado-estas-10-webs-para-tener-un-mejor-2021/)
+
 Centralitas Virtuales
 * [Comunica](https://www.comunica.com/) Centralita virtual PBX en la nube
 
