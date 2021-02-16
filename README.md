@@ -11,6 +11,9 @@ Informacion sobre sistemas de informacion
 # Herramientas
 Información sobre herramientas recomendadas
 
+Centralitas Virtuales
+* [Comunica](https://www.comunica.com/) Centralita virtual PBX en la nube
+
 Máquinas Virtuales
 [Prueba Windows gratis con las máquinas virtuales de Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) El propósito de estas máquinas virtuales es probar sus navegadores Microsoft Edge y las versiones 8 a 11 de Internet Explorer. En la práctica, también es posible probar Windows en sus versiones 7 a 10. No todas las características disponibles pero sí las más importantes.
 
