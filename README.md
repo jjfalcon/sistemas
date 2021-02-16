@@ -1,6 +1,13 @@
 # Sistemas
 Informacion sobre sistemas de informacion
 
+# Trucos
+
+[Escritorios Virtuales](https://twitter.com/javascriptual/status/1361031096482299910)
+* Windows 10. Ctrl-Win-D (nuevo) Ctrl-Win-drcha, Ctrl-Win-Izda (cambiar), Ctrl-Win-F4 (eliminar actual)
+* MacOS. Swipe up with three fingers for overview or swipe left and right with three fingers for switching between desktops after you create them in overview window.
+* Linux.  gnome, you switch using the mouse wheel
+
 # Herramientas
 Información sobre herramientas recomendadas
 
